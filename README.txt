@@ -1,4 +1,5 @@
 Matlab scripts with supporting functions and input data used to carry out computations, analyse results and create figures in connection with the article "Data Assimilation for a Geological Process Model Using the Ensemble Kalman Filter" by J. Skauvold and J. Eidsvik. Original manuscript submitted to Basin Research April 2017. Revised manuscript submitted October 2017.
+https://arxiv.org/abs/1711.07763
 
 List of files included in this repository:
 
